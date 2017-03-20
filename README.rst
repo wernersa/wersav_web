@@ -2,7 +2,7 @@
 WerSav
 ===============================
 
-This template was made with [Cookiecutter-flask](https://github.com/sloria/cookiecutter-flask).
+This website was built using the boilerplate `Cookiecutter-flask<https://github.com/sloria/cookiecutter-flask>`.
 
 
 Quickstart
