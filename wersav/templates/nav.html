@@ -1,7 +1,7 @@
 
 <div class="masthead clearfix">
   <div class="inner">
-    <h3 class="masthead-brand">Cover</h3>
+    <h3 class="masthead-brand">{% block brand %}WerSav{% endblock %}</h3>
     <nav class="nav nav-masthead">
       {% for link in ["public.home", "public.about"] %}
       <a class="nav-link{% if  request.endpoint == link %} active{% endif %}" href="{{ url_for(link) }}">{{link.split('.')[1] | capitalize}}</a>
