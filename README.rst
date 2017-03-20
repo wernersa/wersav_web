@@ -1,8 +1,10 @@
+
 ===============================
 WerSav
 ===============================
 
-This website was built using the boilerplate `Cookiecutter-flask<https://github.com/sloria/cookiecutter-flask>`_.
+
+This website was built using the boilerplate `Cookiecutter-flask <https://github.com/sloria/cookiecutter-flask>`_.
 
 
 Quickstart
