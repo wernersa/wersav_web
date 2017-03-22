@@ -41,6 +41,7 @@ output/*/index.html
 docs/_build
 
 .webassets-cache
+.cache/
 
 # Virtualenvs
 env/
