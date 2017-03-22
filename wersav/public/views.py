@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Public section, including homepage and signup."""
-from flask import Blueprint, flash, redirect, render_template, request, url_for, send_from_directory
+from flask import Blueprint, flash, redirect, render_template, request, send_from_directory, url_for
 from flask_login import login_required, login_user, logout_user
 
 from wersav.extensions import login_manager
