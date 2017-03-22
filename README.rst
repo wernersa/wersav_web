@@ -1,8 +1,11 @@
 
+.. image:: https://travis-ci.org/wernersa/wersav_web.svg?branch=master
+    :target: https://travis-ci.org/wernersa/wersav_web
+
+
 ===============================
 WerSav
 ===============================
-
 
 This website was built using the boilerplate `Cookiecutter-flask <https://github.com/sloria/cookiecutter-flask>`_.
 
