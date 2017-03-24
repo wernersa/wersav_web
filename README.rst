@@ -1,11 +1,24 @@
 
-.. image:: https://travis-ci.org/wernersa/wersav_web.svg?branch=master
-    :target: https://travis-ci.org/wernersa/wersav_web
-
 
 ===============================
 WerSav
 ===============================
+
+.. image:: https://travis-ci.org/wernersa/wersav_web.svg?branch=master
+     :target: https://travis-ci.org/wernersa/wersav_web
+     :alt: Tests
+
+.. image:: https://pyup.io/repos/github/wernersa/wersav_web/shield.svg
+     :target: https://pyup.io/repos/github/wernersa/wersav_web/
+     :alt: Updates
+     
+.. image:: https://pyup.io/repos/github/wernersa/wersav_web/python-3-shield.svg
+     :target: https://pyup.io/repos/github/wernersa/wersav_web/
+     :alt: Python 3
+
+About
+------
+
 
 This website was built using the boilerplate `Cookiecutter-flask <https://github.com/sloria/cookiecutter-flask>`_.
 

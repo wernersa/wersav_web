@@ -1,5 +1,11 @@
 # Config file for automatic testing at travis-ci.org
 sudo: false  # http://docs.travis-ci.com/user/migrating-from-legacy/
+notifications:
+  email:
+    # recipients:
+    #   - one@example.com
+    on_success: never # default: change
+    on_failure: always # default: always
 env:
 - FLASK_APP=autoapp.py FLASK_DEBUG=1
 language: python
