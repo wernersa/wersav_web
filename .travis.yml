@@ -18,6 +18,6 @@ before_install: pip install codecov pytest-cov
 install: pip install -r requirements/dev.txt
 before_script: flask lint
 script:
-  - py.test --cov=./
+  - py.test --cov=wersav tests/
   - flask test
 after_success: codecov
