@@ -17,5 +17,7 @@ python:
 before_install: pip install codecov pytest-cov
 install: pip install -r requirements/dev.txt
 before_script: flask lint
-script: flask test
+script:
+  - py.test --cov=./
+  - flask test
 after_success: codecov
