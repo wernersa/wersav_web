@@ -8,6 +8,10 @@ WerSav
      :target: https://travis-ci.org/wernersa/wersav_web
      :alt: Tests
 
+.. image:: https://codecov.io/gh/wernersa/wersav_web/coverage.svg?branch=master
+     :target: https://codecov.io/gh/wernersa/wersav_web/
+     :alt: Coverage
+
 .. image:: https://pyup.io/repos/github/wernersa/wersav_web/shield.svg
      :target: https://pyup.io/repos/github/wernersa/wersav_web/
      :alt: Updates
@@ -16,9 +20,9 @@ WerSav
      :target: https://pyup.io/repos/github/wernersa/wersav_web/
      :alt: Python 3
 
+
 About
 ------
-
 
 This website was built using the boilerplate `Cookiecutter-flask <https://github.com/sloria/cookiecutter-flask>`_.
 
