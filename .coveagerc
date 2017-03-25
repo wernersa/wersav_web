@@ -1,6 +1,6 @@
 [run]
 branch = True
-source = /
+source = wersav/
 
 [report]
 exclude_lines =
