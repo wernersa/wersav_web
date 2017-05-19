@@ -44,7 +44,7 @@ def lint(fix_imports):
 
     if fix_imports:
         execute_tool('Fixing import order', 'isort', '-rc')
-    execute_tool('Checking code style', 'flake8')
+    execute_tool('Checking code style', 'flake8', '--ignore=D401')
 
 
 @click.command()
