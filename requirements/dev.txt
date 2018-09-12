@@ -5,13 +5,14 @@
 pytest==3.2.1
 WebTest==2.0.30
 factory-boy==2.9.2
+pytest==3.7.1
 
 # Lint and code style
-flake8==3.4.1
+flake8==3.5.0
 flake8-blind-except==0.1.1
-flake8-debugger==1.4.0
+flake8-debugger==3.1.0
 flake8-docstrings==1.1.0
 flake8-isort==2.2.2
-flake8-quotes==0.11.0
+flake8-quotes==1.0.0
 isort==4.2.15
-pep8-naming==0.4.1
+pep8-naming==0.7.0
