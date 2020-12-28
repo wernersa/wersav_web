@@ -4,7 +4,7 @@
 # Testing
 pytest==3.7.1
 WebTest==2.0.28
-factory-boy==2.11.1
+factory-boy==3.2.0
 
 # Lint and code style
 flake8==3.5.0
